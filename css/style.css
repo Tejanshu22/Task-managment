@@ -5,7 +5,7 @@
 
 body {
     padding-top: 50px !important;
-    background :radial-gradient(#111, #000) !important;
+    background :radial-gradient(#000, #000) !important;
 }
 
 .add_new_button_mobile_only {
