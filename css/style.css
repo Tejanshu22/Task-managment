@@ -68,7 +68,7 @@ body {
 }
 
 .leaf div:nth-child(2) {
-    left: 70%;
+    left: 60%;
     animation: fall 15s linear infinite;
     animation-delay: -4s;
 }
@@ -81,13 +81,13 @@ body {
 }
 
 .leaf div:nth-child(4) {
-    left: 50%;
+    left: 40%;
     animation: fall 18s linear infinite;
     animation-delay: -5s;
 }
 
 .leaf div:nth-child(5) {
-    left: 85%;
+    left: 75%;
     animation: fall 14s linear infinite;
     animation-delay: -5s;
 }
@@ -99,7 +99,7 @@ body {
 }
 
 .leaf div:nth-child(7) {
-    left: 90%;
+    left: 80%;
     animation: fall 15s linear infinite;
     animation-delay: -4s;
 }
